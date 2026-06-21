@@ -213,4 +213,11 @@ Image_Dataset_Classifier/
 *.zip
 
 bladeRF/
-BKDATASET/
+BKDATASET/train/
+BKDATASET/test/
+BKDATASET/TrainingModel/*.pth
+BKDATASET/TrainingModel/*.mlpackage/
+BKDATASET/TrainingModel/__pycache__/
+BKDATASET/TrainingModel/*.csv
+BKDATASET/TrainingModel/*.tex
+BKDATASET/TrainingModel/*.png
